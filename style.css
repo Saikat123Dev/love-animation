@@ -17,6 +17,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #ffcccc;
+  font-family: 'Love Ya Like A Sister', cursive;
   /* Brighter background color */
 }
 
@@ -155,4 +156,7 @@ body {
   animation-duration: 14s;
   animation-delay: 9s;
   left: 90%;
+}
+.h1{
+  font-family: 'Love Ya Like A Sister', cursive;
 }
